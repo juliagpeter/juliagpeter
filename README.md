@@ -1,8 +1,8 @@
 ### Hi there, I'm Júlia Peter! 👋
 
-- 🔭 I’m currently working in the first stage of my final paper.
-- 🌱 I’m currently learning: JavaScript/PHP/SQL/Java!
-- 💫 I'm interested in mobile development. 
+- 🔭 I’m currently working as a Software Quality Engineer intern at Compass UOL.
+- 🌱 I’m currently learning: Cypress/Playwright/JavaScript/K6/PHP/SQL!
+- 💫 I'm interested in Quality Assurance and Mobile Development. 
 - 📫 How to reach me: juliagpeter0@gmail.com
 - 😄 Pronouns: she/her
 <div style="display: inline_block"><br>
